@@ -5,4 +5,4 @@
 layout: default
 ---
 
-{% include foundation.liquid %}
+{% include foundation.html %}
