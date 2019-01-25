@@ -1,6 +1,6 @@
 # dhuck's Foundation for Jekyll
 
-This repository is a quick project start combining Foundation 6.5 with Jekyll 3.83. Foundation is a wonderful framework to get developing design quickly and Jekyll is the default static site generator for GitHub. These two tools are powerful to quickly design and maintain a small site so you can get back to playing Dwarf Fortress. Read more about [Jekyll](https://jekyllrb.com/) and [Foundation](https://foundation.zurb.com/).
+This repository is a quick project start combining Foundation 6.5 with Jekyll 3.8.4. Foundation is a wonderful framework to get developing design quickly and Jekyll is the default static site generator for GitHub. These two tools are powerful to quickly design and maintain a small site so you can get back to playing Dwarf Fortress. Read more about [Jekyll](https://jekyllrb.com/) and [Foundation](https://foundation.zurb.com/).
 
 ## Requirements and Instructions
 
